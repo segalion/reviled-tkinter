@@ -1,5 +1,5 @@
 # reviled-tkinter
-A place to promote tk/tkinter as great OS agnostic GUI toolkit
+A place to promote tk/tkinter as great OS-agnostic GUI toolkit
 
 You can find throughout the network a multitude of articles and derogatory comments about tkinter (even people asking for their exclusion from default python package).
 
